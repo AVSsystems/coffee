@@ -1,0 +1,8 @@
+<calibration_data>
+    <device_id>AVS-GRIND-01</device_id>
+    <burr_type>Conical_Steel</burr_type>
+    <settings>
+        <setting fine="12" medium="24" coarse="40" />
+    </settings>
+    <last_service>2026-01-20</last_service>
+</calibration_data>
