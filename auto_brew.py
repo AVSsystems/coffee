@@ -1,4 +1,5 @@
 import time
+import math
 
 def start_extraction(seconds):
     print(f"Extraction started for {seconds} seconds...")
