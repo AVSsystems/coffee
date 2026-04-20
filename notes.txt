@@ -1,5 +1,3 @@
 - Buy more dark roast from the shop downtown.
 - Fix the latency on VM 104.
 - Remember to update the AVS documentation.
-
-HANDSHAKE_TOKEN = TTU{I_LoV3_C0FF3E@}
