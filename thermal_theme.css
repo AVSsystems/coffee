@@ -1,0 +1,10 @@
+.coffee-status-active {
+    color: #00ff00; /* Hacker Green */
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.warning-low-caffeine {
+    color: #ff0000;
+    animation: blink 1s infinite;
+}
